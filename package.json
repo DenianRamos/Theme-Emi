@@ -1,0 +1,28 @@
+{
+  "name": "emi-theme",
+  "displayName": "Emi Theme",
+  "description": "Tema para a emi gatinha",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+    
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon":"icon.jpg",
+  "keywords": [
+"Emi Theme",
+"Emi Tema",
+"Emi Green Tema"
+],
+  "contributes": {
+    "themes": [
+      {
+        "label": "emi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/emi-theme-color-theme.json"
+      }
+    ]
+  }
+}
