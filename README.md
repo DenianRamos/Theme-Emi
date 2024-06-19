@@ -2,7 +2,6 @@
 
 ## 
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
 *Tema em desenvolvimento ok emi >-<
 
